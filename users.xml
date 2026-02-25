@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+<users>
+
+    <user>
+        <id>101</id>
+        <name>Ananya </name>
+        <type>Student</type>
+        <department>CSE</department>
+        <email>ananya@college.edu</email>
+        <phone>9876543210</phone>
+    </user>
+
+    <user>
+        <id>102</id>
+        <name>Ashrita</name>
+        <type>Student</type>
+        <department>ECE</department>
+        <email>ashrita@college.edu</email>
+        <phone>9876501234</phone>
+    </user>
+
+    <user>
+        <id>103</id>
+        <name>Sreya</name>
+        <type>Student</type>
+        <department>IT</department>
+        <email>sreya@college.edu</email>
+        <phone>9001122334</phone>
+    </user>
+
+    <user>
+        <id>104</id>
+        <name>Lohitha</name>
+        <type>Student</type>
+        <department>Civil</department>
+        <email>lohitha@college.edu</email>
+        <phone>9012345678</phone>
+    </user>
+
+    <user>
+        <id>105</id>
+        <name>Poojatha</name>
+        <type>Student</type>
+        <department>CSE</department>
+        <email>poojatha@college.edu</email>
+        <phone>9090909090</phone>
+    </user>
+
+    <user>
+        <id>201</id>
+        <name>Meenakshi</name>
+        <type>Faculty</type>
+        <department>CSE</department>
+        <email>Meenakshi@college.edu</email>
+        <phone>9123456780</phone>
+    </user>
+
+    <user>
+        <id>202</id>
+        <name>Aryan</name>
+        <type>Faculty</type>
+        <department>EEE</department>
+        <email>Aryan@college.edu</email>
+        <phone>9988776655</phone>
+    </user>
+
+    <user>
+        <id>203</id>
+        <name>Ramu</name>
+        <type>Faculty</type>
+        <department>Mechanical</department>
+        <email>Ramu@college.edu</email>
+        <phone>9887766554</phone>
+    </user>
+
+    <user>
+        <id>204</id>
+        <name>Lakshmi </name>
+        <type>Faculty</type>
+        <department>Physics</department>
+        <email>lakshmi@college.edu</email>
+        <phone>9345678901</phone>
+    </user>
+
+    <user>
+        <id>106</id>
+        <name>Kranthi</name>
+        <type>Student</type>
+        <department>ECE</department>
+        <email>Kranthi@college.edu</email>
+        <phone>9871234567</phone>
+    </user>
+
+</users>
